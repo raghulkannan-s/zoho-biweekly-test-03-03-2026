@@ -28,6 +28,7 @@ public class Q2 {
         }
 
         System.out.println(dp[n]);
+        sc.close();
     }
 }
 
